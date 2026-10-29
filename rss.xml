@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dossier Tech Ia Solutions</title>
+    <link>https://vianneydcps-boop.github.io/dossier-tech-ia-solutions/</link>
+    <description>Décryptage Tech &amp; IA : Solutions, Stratégies, Futur.</description>
+    <language>fr</language>
+    <atom:link href="https://vianneydcps-boop.github.io/dossier-tech-ia-solutions/rss.xml" rel="self" type="application/rss+xml" />
+        <item>
+      <title>V-SEO : Comprendre les Enjeux Cruciaux de la Visibilité en Ligne pour 2024</title>
+      <link>https://vianneydcps-boop.github.io/dossier-tech-ia-solutions/posts/1793286952767-v-seo-comprendre-les-enjeux-cruciaux-de-la-visibilite-en-lig.html</link>
+      <guid isPermaLink="true">https://vianneydcps-boop.github.io/dossier-tech-ia-solutions/posts/1793286952767-v-seo-comprendre-les-enjeux-cruciaux-de-la-visibilite-en-lig.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:15:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comparatif des Solutions SEO : Critères Essentiels pour Choisir la Bonne Stratégie</title>
+      <link>https://vianneydcps-boop.github.io/dossier-tech-ia-solutions/posts/1792240355721-comparatif-des-solutions-seo-criteres-essentiels-pour-choisi.html</link>
+      <guid isPermaLink="true">https://vianneydcps-boop.github.io/dossier-tech-ia-solutions/posts/1792240355721-comparatif-des-solutions-seo-criteres-essentiels-pour-choisi.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:15:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Note de test</title>
+      <link>https://vianneydcps-boop.github.io/dossier-tech-ia-solutions/posts/1792082084056-note-de-test.html</link>
+      <guid isPermaLink="true">https://vianneydcps-boop.github.io/dossier-tech-ia-solutions/posts/1792082084056-note-de-test.html</guid>
+      <pubDate>Thu, 29 Oct 2026 15:15:57 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
